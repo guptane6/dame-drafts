@@ -1,5 +1,5 @@
 $project hello this is a change
-========
+===============================
 
 $project will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
@@ -39,3 +39,9 @@ License
 -------
 
 The project is licensed under the BSD license.
+
+
+.. toctree::
+   :maxdepth: 2
+
+   all-about-me
